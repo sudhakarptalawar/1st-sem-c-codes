@@ -1,4 +1,4 @@
-//area is circle
+//area of circle using user input
 #include<stdio.h>
 int main() {
    float radius,pie;
