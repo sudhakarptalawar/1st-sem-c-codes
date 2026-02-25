@@ -1,3 +1,4 @@
+//numbers which are less then use input by di while method
 #include<stdio.h>
 int main()
 {
